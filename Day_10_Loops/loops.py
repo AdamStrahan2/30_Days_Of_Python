@@ -1,5 +1,5 @@
-from Data.countries import countries
-from Data.countries_data import countries_info
+from data.countries import countries
+from data.countries_data import countries_info
 from collections import Counter
 
 # ------ Loops ------

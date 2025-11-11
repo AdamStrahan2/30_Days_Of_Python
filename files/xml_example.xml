@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<person gender="male">
+  <name>Adam</name>
+  <country>Ireland</country>
+  <city>Carlow</city>
+  <skills>
+    <skill>JavaScript</skill>
+    <skill>Java</skill>
+    <skill>Python</skill>
+  </skills>
+</person>

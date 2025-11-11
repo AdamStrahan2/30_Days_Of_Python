@@ -1,6 +1,6 @@
 import math
 import keyword
-from Data.countries_data import countries_info
+from data.countries_data import countries_info
 from collections import Counter
 # ------ Functions ------
 # A function is a reusable block of code or programming statements designed to perform a certain task.
