@@ -1,0 +1,472 @@
+[
+  {
+    "No": "1",
+    "Name": "George Washington(1732-1799)",
+    "Term": "April 30, 1789-March 4, 1797",
+    "Party": "",
+    "Election": "Unaffiliated",
+    "Vice President": [
+      "1788-89"
+    ]
+  },
+  {
+    "No": "2",
+    "Name": "John Adams(1735-1826)",
+    "Term": "March 4, 1797-March 4, 1801",
+    "Party": "",
+    "Election": "Federalist",
+    "Vice President": [
+      "1796"
+    ]
+  },
+  {
+    "No": "3",
+    "Name": "Thomas Jefferson(1743-1826)",
+    "Term": "March 4, 1801-March 4, 1809",
+    "Party": "",
+    "Election": "Democratic-Republican",
+    "Vice President": [
+      "1800"
+    ]
+  },
+  {
+    "No": "4",
+    "Name": "James Madison(1751-1836)",
+    "Term": "March 4, 1809-March 4, 1817",
+    "Party": "",
+    "Election": "Democratic-Republican",
+    "Vice President": [
+      "1808"
+    ]
+  },
+  {
+    "No": "5",
+    "Name": "James Monroe(1758-1831)",
+    "Term": "March 4, 1817-March 4, 1825",
+    "Party": "",
+    "Election": "Democratic-Republican",
+    "Vice President": [
+      "1816"
+    ]
+  },
+  {
+    "No": "6",
+    "Name": "John Quincy Adams(1767-1848)",
+    "Term": "March 4, 1825-March 4, 1829",
+    "Party": "",
+    "Election": "Democratic-Republican",
+    "Vice President": [
+      "1824"
+    ]
+  },
+  {
+    "No": "7",
+    "Name": "Andrew Jackson(1767-1845)",
+    "Term": "March 4, 1829-March 4, 1837",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1828"
+    ]
+  },
+  {
+    "No": "8",
+    "Name": "Martin Van Buren(1782-1862)",
+    "Term": "March 4, 1837-March 4, 1841",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1836"
+    ]
+  },
+  {
+    "No": "9",
+    "Name": "William Henry Harrison(1773-1841)",
+    "Term": "March 4, 1841-April 4, 1841",
+    "Party": "",
+    "Election": "Whig",
+    "Vice President": [
+      "1840"
+    ]
+  },
+  {
+    "No": "10",
+    "Name": "John Tyler(1790-1862)",
+    "Term": "April 4, 1841-March 4, 1845",
+    "Party": "",
+    "Election": "Whig",
+    "Vice President": [
+      "1840"
+    ]
+  },
+  {
+    "No": "11",
+    "Name": "James K. Polk(1795-1849)",
+    "Term": "March 4, 1845-March 4, 1849",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1844"
+    ]
+  },
+  {
+    "No": "12",
+    "Name": "Zachary Taylor(1784-1850)",
+    "Term": "March 4, 1849-July 9, 1850",
+    "Party": "",
+    "Election": "Whig",
+    "Vice President": [
+      "1848"
+    ]
+  },
+  {
+    "No": "13",
+    "Name": "Millard Fillmore(1800-1874)",
+    "Term": "July 9, 1850-March 4, 1853",
+    "Party": "",
+    "Election": "Whig",
+    "Vice President": [
+      "1848"
+    ]
+  },
+  {
+    "No": "14",
+    "Name": "Franklin Pierce(1804-1869)",
+    "Term": "March 4, 1853-March 4, 1857",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1852"
+    ]
+  },
+  {
+    "No": "15",
+    "Name": "James Buchanan(1791-1868)",
+    "Term": "March 4, 1857-March 4, 1861",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1856"
+    ]
+  },
+  {
+    "No": "16",
+    "Name": "Abraham Lincoln(1809-1865)",
+    "Term": "March 4, 1861-April 15, 1865",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1860"
+    ]
+  },
+  {
+    "No": "17",
+    "Name": "Andrew Johnson(1808-1875)",
+    "Term": "April 15, 1865-March 4, 1869",
+    "Party": "",
+    "Election": "National Union",
+    "Vice President": [
+      "1860"
+    ]
+  },
+  {
+    "No": "18",
+    "Name": "Ulysses S. Grant(1822-1885)",
+    "Term": "March 4, 1869-March 4, 1877",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1868"
+    ]
+  },
+  {
+    "No": "19",
+    "Name": "Rutherford B. Hayes(1822-1893)",
+    "Term": "March 4, 1877-March 4, 1881",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1876"
+    ]
+  },
+  {
+    "No": "20",
+    "Name": "James A. Garfield(1831-1881)",
+    "Term": "March 4, 1881-September 19, 1881",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1880"
+    ]
+  },
+  {
+    "No": "21",
+    "Name": "Chester A. Arthur(1829-1886)",
+    "Term": "September 19, 1881-March 4, 1885",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1880"
+    ]
+  },
+  {
+    "No": "22",
+    "Name": "Grover Cleveland(1837-1908)1st term",
+    "Term": "March 4, 1885-March 4, 1889",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1884"
+    ]
+  },
+  {
+    "No": "23",
+    "Name": "Benjamin Harrison(1833-1901)",
+    "Term": "March 4, 1889-March 4, 1893",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1888"
+    ]
+  },
+  {
+    "No": "24",
+    "Name": "Grover Cleveland(1837-1908)2nd term",
+    "Term": "March 4, 1893-March 4, 1897",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1892"
+    ]
+  },
+  {
+    "No": "25",
+    "Name": "William McKinley(1843-1901)",
+    "Term": "March 4, 1897-September 14, 1901",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1896"
+    ]
+  },
+  {
+    "No": "26",
+    "Name": "Theodore Roosevelt(1858-1919)",
+    "Term": "September 14, 1901-March 4, 1909",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1896"
+    ]
+  },
+  {
+    "No": "27",
+    "Name": "William Howard Taft(1857-1930)",
+    "Term": "March 4, 1909-March 4, 1913",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1908"
+    ]
+  },
+  {
+    "No": "28",
+    "Name": "Woodrow Wilson(1856-1924)",
+    "Term": "March 4, 1913-March 4, 1921",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1912"
+    ]
+  },
+  {
+    "No": "29",
+    "Name": "Warren G. Harding(1865-1923)",
+    "Term": "March 4, 1921-August 2, 1923",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1920"
+    ]
+  },
+  {
+    "No": "30",
+    "Name": "Calvin Coolidge(1872-1933)",
+    "Term": "August 2, 1923-March 4, 1929",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1920"
+    ]
+  },
+  {
+    "No": "31",
+    "Name": "Herbert Hoover(1874-1964)",
+    "Term": "March 4, 1929-March 4, 1933",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1928"
+    ]
+  },
+  {
+    "No": "32",
+    "Name": "Franklin D. Roosevelt(1882-1945)",
+    "Term": "March 4, 1933-April 12, 1945",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1932"
+    ]
+  },
+  {
+    "No": "33",
+    "Name": "Harry S. Truman(1884-1972)",
+    "Term": "April 12, 1945-January 20, 1953",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1932"
+    ]
+  },
+  {
+    "No": "34",
+    "Name": "Dwight D. Eisenhower(1890-1969)",
+    "Term": "January 20, 1953-January 20, 1961",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1952"
+    ]
+  },
+  {
+    "No": "35",
+    "Name": "John F. Kennedy(1917-1963)",
+    "Term": "January 20, 1961-November 22, 1963",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1960"
+    ]
+  },
+  {
+    "No": "36",
+    "Name": "Lyndon B. Johnson(1908-1973)",
+    "Term": "November 22, 1963-January 20, 1969",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1960"
+    ]
+  },
+  {
+    "No": "37",
+    "Name": "Richard Nixon(1913-1994)",
+    "Term": "January 20, 1969-August 9, 1974",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1968"
+    ]
+  },
+  {
+    "No": "38",
+    "Name": "Gerald Ford(1913-2006)",
+    "Term": "August 9, 1974-January 20, 1977",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1968"
+    ]
+  },
+  {
+    "No": "39",
+    "Name": "Jimmy Carter(1924-2024)",
+    "Term": "January 20, 1977-January 20, 1981",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1976"
+    ]
+  },
+  {
+    "No": "40",
+    "Name": "Ronald Reagan(1911-2004)",
+    "Term": "January 20, 1981-January 20, 1989",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1980"
+    ]
+  },
+  {
+    "No": "41",
+    "Name": "George H. W. Bush(1924-2018)",
+    "Term": "January 20, 1989-January 20, 1993",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "1988"
+    ]
+  },
+  {
+    "No": "42",
+    "Name": "Bill Clinton(b. 1946)",
+    "Term": "January 20, 1993-January 20, 2001",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "1992"
+    ]
+  },
+  {
+    "No": "43",
+    "Name": "George W. Bush(b. 1946)",
+    "Term": "January 20, 2001-January 20, 2009",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "2000"
+    ]
+  },
+  {
+    "No": "44",
+    "Name": "Barack Obama(b. 1961)",
+    "Term": "January 20, 2009-January 20, 2017",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "2008"
+    ]
+  },
+  {
+    "No": "45",
+    "Name": "Donald Trump(b. 1946)1st term",
+    "Term": "January 20, 2017-January 20, 2021",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "2016"
+    ]
+  },
+  {
+    "No": "46",
+    "Name": "Joe Biden(b. 1942)",
+    "Term": "January 20, 2021-January 20, 2025",
+    "Party": "",
+    "Election": "Democratic",
+    "Vice President": [
+      "2020"
+    ]
+  },
+  {
+    "No": "47",
+    "Name": "Donald Trump(b. 1946)2nd term",
+    "Term": "January 20, 2025-Incumbent",
+    "Party": "",
+    "Election": "Republican",
+    "Vice President": [
+      "2024"
+    ]
+  }
+]

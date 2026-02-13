@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Toshiba Porteg...",
+    "price": "$1114.55",
+    "description": "Toshiba Portege Z30-C-16J Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro",
+    "reviews": null,
+    "rating": 0,
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/102"
+  },
+  {
+    "title": "Acer Aspire A3...",
+    "price": "$379.94",
+    "description": "Acer Aspire A315-31-C33J Black 15.6\", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG",
+    "reviews": null,
+    "rating": 0,
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/67"
+  },
+  {
+    "title": "Sony Xperia",
+    "price": "$118.99",
+    "description": "GPS, waterproof",
+    "reviews": null,
+    "rating": 0,
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/5"
+  }
+]
